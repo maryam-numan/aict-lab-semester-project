@@ -1,9 +1,0 @@
-permalink: /:basename/
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: null
-      permalink: /homepage.html
